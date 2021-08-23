@@ -3,5 +3,6 @@ public class TestClass {
         System.out.println("Hello from Git");
         System.out.println("Hello from GitHub");
         String isim = "merhaba";
+        System.out.println(isim.toUpperCase);
     }
 }
